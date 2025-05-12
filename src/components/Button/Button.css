@@ -1,0 +1,12 @@
+.add-btn{
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: 600;
+}
+
+.add-btn:hover{
+    color: rgb(35, 35, 35);
+    background-color: white;
+}
